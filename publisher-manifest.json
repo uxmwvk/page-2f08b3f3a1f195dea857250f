@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "00cfb1672893fd9c71f1383a",
+  "owner": "uxmwvk",
+  "repo": "page-2f08b3f3a1f195dea857250f",
+  "title": "万里云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2f08b3f3a1f195dea857250f",
+      "a": "万里云",
+      "b": "2027最新官网",
+      "entity": "万里云",
+      "brand": "万里云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a813e28e4e7844760b98cdfd386308c9afb4f7fa777d1b7057cfb659673c846d",
+      "content": {
+        "primary_entity": "万里云",
+        "keyword1": "万里云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，面向跨境游戏、流媒体与远程办公场景，提供按月或按年订阅的海外加速线路。基础版适合个人轻量使用，旗舰版覆盖多个设备与原生流媒体解锁，团队版支持二十台设备同时在线和企业定制路由。选择时先看设备数量与月流量，再对照订阅周期决定月付或年付。",
+          "AI_HERO_SUBTITLE": "跨境线路，按需选择套餐",
+          "AI_HERO_INTRO": "万里云提供海外网络加速订阅，主要面向需要稳定跨境线路的游戏玩家、流媒体用户和小型团队。套餐按流量、设备数量和线路类型区分，可月付或年付，客户端覆盖常见桌面与移动系统。",
+          "AI_VISUAL_TITLE": "万里云加速订阅",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数量划分",
+          "AI_HIGHLIGHT_2": "年付方案比月付更省",
+          "AI_HIGHLIGHT_3": "IPLC 专线优化游戏延迟",
+          "AI_FEATURES_TITLE": "套餐与设备匹配要点",
+          "AI_FEATURES_INTRO": "先确认需要同时在线的设备数量与每月流量，再对照订阅周期选择合适档位。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，同时在线数量决定可覆盖的手机、电脑与平板。",
+          "AI_FEATURE_TITLE_2": "按流量估需求",
+          "AI_FEATURE_TEXT_2": "每月 100GB 适合浏览与轻量视频，300GB 覆盖日常流媒体，1000GB 适合多设备高频使用。",
+          "AI_FEATURE_TITLE_3": "按周期定方案",
+          "AI_FEATURE_TEXT_3": "月付适合短期试用，年付基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用更划算。",
+          "AI_PLANS_TITLE": "三档订阅对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月提供 100GB 流量，旗舰版 ¥35/月提供 300GB 与 IPLC 专线优化，团队版 ¥85/月提供 1000GB 与 VIP 节点。",
+          "AI_GUIDE_TITLE": "选择与配置步骤",
+          "AI_GUIDE_INTRO": "从套餐匹配到订阅导入，按三个步骤完成初步配置。",
+          "AI_STEP_TITLE_1": "确认使用需求",
+          "AI_STEP_TEXT_1": "统计同时在线设备数量、每月大致流量，以及是否主要游戏或看流媒体。",
+          "AI_STEP_TITLE_2": "对照套餐适配要求",
+          "AI_STEP_TEXT_2": "将需求与三档套餐的设备数、流量和线路类型比对，确定旗舰版是否必需。",
+          "AI_STEP_TITLE_3": "按客户端文档导入订阅",
+          "AI_STEP_TEXT_3": "选择对应系统的客户端，依照说明把订阅链接导入并启动连接。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "桌面端、移动端与路由器各有适配客户端，依据设备系统选择对应版本并参考其配置文档导入订阅。",
+          "AI_FAQ_INTRO": "套餐选择、设备限制与订阅导入。",
+          "AI_CLOSING_TITLE": "万里云订阅选择",
+          "AI_CLOSING_TEXT": "先明确设备数量与流量需求，再对照套餐与订阅周期完成选择。",
+          "AI_FAQ_ANSWER_1": "根据同时在线设备数量选择：3台以内选基础版，5台左右选旗舰版，20台或团队使用选团队版。",
+          "AI_FAQ_ANSWER_2": "万里云支持订阅导入方式，具体格式与步骤可参考对应客户端的接入文档进行配置。",
+          "AI_FAQ_ANSWER_3": "基础版每月100GB流量，适合轻度浏览；旗舰版每月300GB，适合日常视频与游戏；团队版每月1000GB，满足多设备大流量需求。",
+          "AI_FAQ_ANSWER_4": "三档套餐均提供月付与年付方案，年付价格更优惠，可按需选择计费周期。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含IPLC专线游戏加速优化，适合对延迟敏感的游戏与实时应用，基础版使用普通线路节点池。",
+          "AI_FAQ_QUESTION_1": "如何根据设备数量选择万里云套餐？",
+          "AI_FAQ_QUESTION_2": "万里云支持哪些订阅导入方式？",
+          "AI_FAQ_QUESTION_3": "不同套餐的每月流量有什么区别？",
+          "AI_FAQ_QUESTION_4": "万里云套餐可以按月或按年付费吗？",
+          "AI_FAQ_QUESTION_5": "游戏加速应该选择哪个套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "chongshangyunxiao.com",
+    "host": "chongshangyunxiao.com"
+  },
+  "file_hashes": {
+    "index.html": "91376563d9f0fd5b6704027828e45ebe4016f14b2e5748418045aa85ac5013ad",
+    "sitemap.xml": "8e5a5151cabc7a75a352bf2f21e156297f4cd300d71a21b69d54a59969a266b9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "45bd2c12e4726f315d5a3f7ef78ed45c6207c822a3bf7508faa792302cb9924b",
+    "robots.txt": "569ca45895d9a279bb4132a0e30565fba656462786b5c298e835029ac59c1c88",
+    "31c9c7527cae6edd893e23ca4bf87c39.txt": "f30a6aff6b119652b373f6756264ebe1fc7425004c573a769c513365adb46474"
+  },
+  "revision": "e5512772c0f232c310d52f9887050d8ed3daca3aa7a9e192d3c089cf77237917"
+}
